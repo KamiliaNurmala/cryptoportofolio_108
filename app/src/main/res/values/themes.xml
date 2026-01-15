@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- This name now matches the Manifest exactly -->
+    <style name="Theme.Cryptoportfolio" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/black</item>
+    </style>
+</resources>
