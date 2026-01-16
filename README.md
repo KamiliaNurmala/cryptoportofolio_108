@@ -16,10 +16,10 @@
 <img width="525" height="849" alt="ListCoins" src="https://github.com/user-attachments/assets/4f8fd61a-35b5-4acb-803b-c6f599385b67" />
 
 ## Detail Coin
-![Uploading Brief-description-crypto.png…]()
-
+<img width="498" height="858" alt="Brief-description-crypto" src="https://github.com/user-attachments/assets/b247d90b-a5fc-4894-a1c3-c73e226a10cf" />
 
 ---
+
 ## Before Adding and Changing Anything
 
 ### Home
