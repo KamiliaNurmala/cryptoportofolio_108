@@ -1,4 +1,4 @@
-# CRYPTOFOLIO
+<img width="501" height="862" alt="History-after-edit" src="https://github.com/user-attachments/assets/949053f2-0a5b-4e66-8634-a8f5d046f4fe" /># CRYPTOFOLIO
 
 ## Register
 <img width="452" height="853" alt="register-cryptofolio" src="https://github.com/user-attachments/assets/a8cc3025-b321-4f00-b36f-b82b41185967" />
@@ -46,7 +46,7 @@
 
 ---
 
-## AFter Adding and Changing
+## After Adding and Edit
 
 ### Home
 <img width="595" height="897" alt="Final-Home-after-buy sell edit" src="https://github.com/user-attachments/assets/45e1fb82-36ad-42ab-b2c3-a77a1e5565c9" />
@@ -55,4 +55,4 @@
 <img width="587" height="863" alt="MyHoldings-after-buy sell" src="https://github.com/user-attachments/assets/bcf45da1-55fa-49b7-9303-e0f7a68f1d10" />
 
 ### Portfolio - History
-<img width="590" height="865" alt="History-after-buy sell" src="https://github.com/user-attachments/assets/f7fb0cb8-3bc8-490d-88a0-2ff5ebbbe97b" />
+<img width="501" height="862" alt="History-after-edit" src="https://github.com/user-attachments/assets/ca11911b-21ed-4d57-a315-de5888baccc0" />
